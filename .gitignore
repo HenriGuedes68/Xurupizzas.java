@@ -1,0 +1,14 @@
+
+# Arquivos compilados
+Xurupizzas/build/
+Xurupizzas/dist/
+
+# Arquivos particulares do NetBeans
+Xurupizzas/nbproject/private/
+
+# Arquivos compilados Java
+*.class
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
